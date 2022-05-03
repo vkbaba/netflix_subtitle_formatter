@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/netflix_subtitle_formatter/static/js/main.fea19912.js",
+    "index.html": "/netflix_subtitle_formatter/index.html",
+    "main.fea19912.js.map": "/netflix_subtitle_formatter/static/js/main.fea19912.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fea19912.js"
+  ]
+}
